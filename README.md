@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🏫 I'm a student
+- 🌱 I'm currently learning linux, C++
+- 📫 How to reach md:
+  - email: 2451790355@qq.com
 <!--
 **yinhenghennb/yinhenghennb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
